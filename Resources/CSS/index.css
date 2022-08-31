@@ -1,0 +1,13 @@
+body {
+    font-family: 'Trebuchet MS', sans-serif;
+    line-height: 1.4;
+    margin: 0 auto;
+}
+
+h1, h2, h3 {
+text-align: center;
+}
+
+p {
+    font-size: 18px;
+}
